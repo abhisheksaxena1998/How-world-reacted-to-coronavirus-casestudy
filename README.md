@@ -1,6 +1,5 @@
-# MyPortfolio
-MyPortfolio
+# How world reacted to Coronavirus Case Study
 
-URL of my portfolio is https://abhisheksportfolio.herokuapp.com/
+URL of my portfolio is https://coronacase-study.herokuapp.com/
 
-This is a Django Web Application deployed on Heroku. My portfolio that consists of about me, my projects, experience, skills and my resume.
+
