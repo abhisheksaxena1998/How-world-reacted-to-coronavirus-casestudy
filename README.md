@@ -37,4 +37,3 @@ Coronavirus | 13939 | #coronavirus | 1 November 2019 | 30 May 2020
  coronavirusitalianews | 3776 | #coronavirusitalianews | 1 November 2019 | 30 May 2020
  racistcorona | 18 | #racistcorona | 1 November 2019 | 30 May 2020
 
-.. | .. | .. | .. | .. | .. |
