@@ -25,8 +25,16 @@ For creating word cloud the offensive, hate speech tweets were pre-processed usi
 
 # Dataset Details
 
-Hashtags | Tweets collected | Corresponding hashtags | Start Date | End Date | Coronavirus 
----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----
+Hashtags | Tweets collected | Corresponding hashtags | Start Date | End Date 
+------------ | ------------- | ------------- | ------------- | ------------- |
+Coronavirus | 13939 | #coronavirus | 1 November 2019 | 30 May 2020
+ Coronavirusinindia | 4769 | #Coronavirusinindia | 1 November 2019 | 30 May 2020
+ Covid19 | 9690 | #Covid19 | 1 November 2019 | 30 May 2020
+ Coronavirusoutbreak | 6611 | #Coronavirusoutbreak | 1 November 2019 | 30 May 2020
+ Coronaviruschina | 5358 | #Coronaviruschina | 1 November 2019 | 30 May 2020
+ coronaviruspandemic | 4858 | #coronaviruspandemic | 1 November 2019 | 30 May 2020
+ coronavirussucks | 2506 | #coronavirussucks | 1 November 2019 | 30 May 2020
+ coronavirusitalianews | 3776 | #coronavirusitalianews | 1 November 2019 | 30 May 2020
+ racistcorona | 18 | #racistcorona | 1 November 2019 | 30 May 2020
 
-
-
+.. | .. | .. | .. | .. | .. |
