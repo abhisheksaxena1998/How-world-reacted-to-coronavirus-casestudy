@@ -11,8 +11,8 @@ from .models import *
 
 # Create your views here.
 
-'''def error_404_view(request, exception):
-    return render(request,'404.html')'''
+def error_404_view(request, exception):
+    return render(request,'404.html')
 
 def index(request):
     return render(request, 'index.html')
@@ -20,7 +20,6 @@ def index(request):
 
 
 def about(request):
-    #return HttpResponse("about")
     return render(request, 'about.html')
 
     
